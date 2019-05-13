@@ -1,14 +1,58 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "companies": [
+    {
+      "companyIP": "185.89.185.1",
+      "count": 12,
+      "1": {
+        "time": "2017-07-15 17:12:13+07",
+        "trojanFamily": "Pirit",
+        "numberAttack": "1"
+      },
+      "2": {
+        "time": "2017-07-15 17:12:13+07",
+        "trojanFamily": "Pirit",
+        "numberAttack": "1"
+      },
+      "3": {
+        "time": "2017-07-15 17:12:13+07",
+        "trojanFamily": "Pirit",
+        "numberAttack": "1"
+      },
+      "4": {
+        "time": "2017-07-15 17:12:13+07",
+        "trojanFamily": "Pirit",
+        "numberAttack": "1"
+      },
+      "5": {
+        "time": "2017-07-15 17:12:13+07",
+        "trojanFamily": "Pirit",
+        "numberAttack": "1"
+      },
+      "6": {
+        "time": "2017-07-15 17:12:13+07",
+        "trojanFamily": "Pirit",
+        "numberAttack": "1"
+      },
+      "7": {
+        "time": "2017-07-15 17:12:13+07",
+        "trojanFamily": "Pirit",
+        "numberAttack": "1"
+      },
+      "8": {
+        "time": "2017-07-15 17:12:13+07",
+        "trojanFamily": "Pirit",
+        "numberAttack": "1"
+      },
+      "9": {
+        "time": "2017-07-15 17:12:13+07",
+        "trojanFamily": "Pirit",
+        "numberAttack": "1"
+      },
+      "10": {
+        "time": "2017-07-15 17:12:13+07",
+        "trojanFamily": "Pirit",
+        "numberAttack": "1"
+      }
+    }
+  ]
 }
