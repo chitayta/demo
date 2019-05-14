@@ -1,59 +1,49 @@
 {
   "companies": [
     {
-			"id": 1,
-      "companyIP": "185.89.185.1",
-      "count": 12,
+      "0": {
+        "numberAttack": 2,
+        "time": "2017-07-15T00:00:00.000+0000",
+        "trojanFamily": "AndroidBauts"
+      },
       "1": {
-        "time": "2017-07-15 17:12:13+07",
-        "trojanFamily": "Pirit",
-        "numberAttack": "1"
+        "numberAttack": 15,
+        "time": "2017-07-15T00:00:00.000+0000",
+        "trojanFamily": "Ganlet"
       },
       "2": {
-        "time": "2017-07-15 17:12:13+07",
-        "trojanFamily": "Pirit",
-        "numberAttack": "1"
+        "numberAttack": 1,
+        "time": "2017-07-15T00:00:00.000+0000",
+        "trojanFamily": "MKero"
       },
       "3": {
-        "time": "2017-07-15 17:12:13+07",
-        "trojanFamily": "Pirit",
-        "numberAttack": "1"
+        "numberAttack": 8,
+        "time": "2017-07-15T00:00:00.000+0000",
+        "trojanFamily": "MobiDash"
       },
       "4": {
-        "time": "2017-07-15 17:12:13+07",
-        "trojanFamily": "Pirit",
-        "numberAttack": "1"
+        "numberAttack": 6,
+        "time": "2017-07-15T00:00:00.000+0000",
+        "trojanFamily": "Necurs"
       },
       "5": {
-        "time": "2017-07-15 17:12:13+07",
-        "trojanFamily": "Pirit",
-        "numberAttack": "1"
+        "numberAttack": 3,
+        "time": "2017-07-15T00:00:00.000+0000",
+        "trojanFamily": "PushDo"
       },
       "6": {
-        "time": "2017-07-15 17:12:13+07",
-        "trojanFamily": "Pirit",
-        "numberAttack": "1"
+        "numberAttack": 3,
+        "time": "2017-07-15T00:00:00.000+0000",
+        "trojanFamily": "Ramnit"
       },
       "7": {
-        "time": "2017-07-15 17:12:13+07",
-        "trojanFamily": "Pirit",
-        "numberAttack": "1"
+        "numberAttack": 4,
+        "time": "2017-07-15T00:00:00.000+0000",
+        "trojanFamily": "Ztorg"
       },
-      "8": {
-        "time": "2017-07-15 17:12:13+07",
-        "trojanFamily": "Pirit",
-        "numberAttack": "1"
-      },
-      "9": {
-        "time": "2017-07-15 17:12:13+07",
-        "trojanFamily": "Pirit",
-        "numberAttack": "1"
-      },
-      "10": {
-        "time": "2017-07-15 17:12:13+07",
-        "trojanFamily": "Pirit",
-        "numberAttack": "1"
-      }
+      "count": 42,
+			"companyIP": "89.108.195.20",
+			"id": 1
     }
   ]
 }
