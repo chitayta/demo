@@ -42,61 +42,61 @@
         "trojanFamily": "Ztorg"
 			},
 			"8": {
-        "numberAttack": 4,
+        "numberAttack": 9,
         "time": "2017-07-18T00:00:00.000+0000",
         "trojanFamily": "Test1"
 			},
 			"9": {
-        "numberAttack": 4,
+        "numberAttack": 41,
         "time": "2017-07-19T00:00:00.000+0000",
         "trojanFamily": "Test2"
 			},
 			"10": {
-        "numberAttack": 4,
+        "numberAttack": 11,
         "time": "2017-07-20T00:00:00.000+0000",
         "trojanFamily": "Test3"
 			},
 			"11": {
-        "numberAttack": 4,
+        "numberAttack": 6,
         "time": "2017-07-21T00:00:00.000+0000",
         "trojanFamily": "Test4"
 			},
 			"12": {
-        "numberAttack": 4,
+        "numberAttack": 22,
         "time": "2017-07-22T00:00:00.000+0000",
         "trojanFamily": "Test5"
 			},
 			"13": {
-        "numberAttack": 4,
+        "numberAttack": 29,
         "time": "2017-07-23T00:00:00.000+0000",
         "trojanFamily": "Test6"
 			},
 			"14": {
-        "numberAttack": 4,
+        "numberAttack": 2,
         "time": "2017-07-24T00:00:00.000+0000",
         "trojanFamily": "Test7"
 			},
 			"15": {
-        "numberAttack": 4,
+        "numberAttack": 8,
         "time": "2017-07-25T00:00:00.000+0000",
         "trojanFamily": "Test8"
 			},
 			"16": {
-        "numberAttack": 4,
+        "numberAttack": 16,
         "time": "2017-07-26T00:00:00.000+0000",
         "trojanFamily": "Test9"
 			},
 			"17": {
-        "numberAttack": 4,
+        "numberAttack": 24,
         "time": "2017-07-27T00:00:00.000+0000",
         "trojanFamily": "Test10"
 			},
 			"18": {
-        "numberAttack": 4,
+        "numberAttack": 13,
         "time": "2017-07-28T00:00:00.000+0000",
         "trojanFamily": "Test11"
       },
-      "count": 42,
+      "count": 181,
 			"companyIP": "89.108.195.20",
 			"id": 1
     }
