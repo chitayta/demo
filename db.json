@@ -75,39 +75,356 @@
       "data": [
         {
           "time": "2017-07-15T10:13:31.000+0000",
-          "fulldata": "{\"_id\": \"5969f7d06caf38000b5b1667\", \"_ts\": 1500113611, \"bot\": \"anubis_collector\", \"env\": {\"remote_addr\": \"89.108.195.20\", \"server_name\": \"data.xyxpk.com\"}, \"qtype\": \"A\", \"source\": \"Anubis\", \"_origin\": \"dnsmalware\", \"version\": \"1\", \"_provider\": \"spikens\", \"raw_format\": \"application/octet-stream\", \"source_time\": \"Sat Jul 15 17:13:31 ICT 2017\", \"source_type\": \"dnsmalware\", \"trojanfamily\": \"Ganlet\", \"source_address\": \"https://www.bitsighttech.com/\", \"observation_time\": \"Sat Jul 15 18:09:01 ICT 2017\", \"_geo_env_remote_addr\": {\"ip\": \"89.108.195.20\", \"asn\": 39603, \"path\": \"env.remote_addr\", \"netmask\": 18, \"asn_name\": \"Play\", \"latitude\": 52.2393, \"longitude\": 21.0361, \"country_code\": \"PL\", \"country_name\": \"Poland\"}}"
+          "fulldata": {
+            "_id": "5969f7bf6caf38000b5b0c91",
+            "_ts": 1500113534,
+            "bot": "anubis_collector",
+            "env": {
+              "remote_addr": "89.231.1.206",
+              "server_name": "4nbizac8.ru"
+            },
+            "qtype": "A",
+            "source": "Anubis",
+            "_origin": "dnsmalware",
+            "version": "1",
+            "_provider": "spikens",
+            "raw_format": "application/octet-stream",
+            "source_time": "Sat Jul 15 17:12:14 ICT 2017",
+            "source_type": "dnsmalware",
+            "trojanfamily": "Gamarue",
+            "source_address": "https://www.bitsighttech.com/",
+            "observation_time": "Sat Jul 15 18:08:44 ICT 2017",
+            "_geo_env_remote_addr": {
+              "ip": "89.231.1.206",
+              "asn": 21021,
+              "city": "Lowicz",
+              "path": "env.remote_addr",
+              "region": "Lodzkie",
+              "netmask": 25,
+              "asn_name": "Multimedia Polska S.A.",
+              "latitude": 52.1167,
+              "longitude": 19.9333,
+              "postal_code": "99-400",
+              "region_code": "74",
+              "country_code": "PL",
+              "country_name": "Poland"
+            }
+          }
         },
         {
           "time": "2017-07-15T10:13:29.000+0000",
-          "fulldata": "{\"_id\": \"5969f7cf6caf38000b5b1611\", \"_ts\": 1500113609, \"bot\": \"anubis_collector\", \"env\": {\"remote_addr\": \"89.108.195.20\", \"server_name\": \"data.xyxpk.com\"}, \"qtype\": \"A\", \"source\": \"Anubis\", \"_origin\": \"dnsmalware\", \"version\": \"1\", \"_provider\": \"spikens\", \"raw_format\": \"application/octet-stream\", \"source_time\": \"Sat Jul 15 17:13:29 ICT 2017\", \"source_type\": \"dnsmalware\", \"trojanfamily\": \"Ganlet\", \"source_address\": \"https://www.bitsighttech.com/\", \"observation_time\": \"Sat Jul 15 18:09:00 ICT 2017\", \"_geo_env_remote_addr\": {\"ip\": \"89.108.195.20\", \"asn\": 39603, \"path\": \"env.remote_addr\", \"netmask\": 18, \"asn_name\": \"Play\", \"latitude\": 52.2393, \"longitude\": 21.0361, \"country_code\": \"PL\", \"country_name\": \"Poland\"}}"
+          "fulldata": {
+            "sd": 1,
+            "_id": "5969f7bf6caf38000b5b0c96",
+            "_ts": 1500113534,
+            "bot": "anubis_collector",
+            "env": {
+              "path_info": "/search2",
+              "remote_addr": "83.13.115.38",
+              "remote_port": "15438",
+              "server_addr": "212.61.180.100",
+              "server_name": "robohelptesting.biz",
+              "server_port": "80",
+              "request_method": "POST"
+            },
+            "source": "Anubis",
+            "_origin": "banktrojan",
+            "version": "1",
+            "_provider": "ngs_nginx",
+            "raw_format": "application/octet-stream",
+            "source_time": "Sat Jul 15 17:12:14 ICT 2017",
+            "source_type": "banktrojan",
+            "trojanfamily": "Sinowal",
+            "source_address": "https://www.bitsighttech.com/",
+            "observation_time": "Sat Jul 15 18:08:44 ICT 2017",
+            "_geo_env_remote_addr": {
+              "ip": "83.13.115.38",
+              "asn": 5617,
+              "city": "Zbiczno",
+              "path": "env.remote_addr",
+              "region": "Kujawsko-Pomorskie",
+              "netmask": 24,
+              "asn_name": "Orange Polska Spolka Akcyjna",
+              "latitude": 53.3327,
+              "longitude": 19.3766,
+              "postal_code": "87-305",
+              "region_code": "73",
+              "country_code": "PL",
+              "country_name": "Poland"
+            },
+            "_geo_env_server_addr": {
+              "ip": "212.61.180.100",
+              "asn": 8426,
+              "path": "env.server_addr",
+              "netmask": 21,
+              "asn_name": "Claranet Ltd",
+              "latitude": 52.3824,
+              "longitude": 4.8995,
+              "country_code": "NL",
+              "country_name": "Netherlands"
+            }
+          }
         },
         {
           "time": "2017-07-15T10:13:28.000+0000",
-          "fulldata": "{\"_id\": \"5969f7cf6caf38000b5b15da\", \"_ts\": 1500113608, \"bot\": \"anubis_collector\", \"env\": {\"remote_addr\": \"89.108.195.20\", \"server_name\": \"data.xyxpk.com\"}, \"qtype\": \"A\", \"source\": \"Anubis\", \"_origin\": \"dnsmalware\", \"version\": \"1\", \"_provider\": \"spikens\", \"raw_format\": \"application/octet-stream\", \"source_time\": \"Sat Jul 15 17:13:28 ICT 2017\", \"source_type\": \"dnsmalware\", \"trojanfamily\": \"Ganlet\", \"source_address\": \"https://www.bitsighttech.com/\", \"observation_time\": \"Sat Jul 15 18:09:00 ICT 2017\", \"_geo_env_remote_addr\": {\"ip\": \"89.108.195.20\", \"asn\": 39603, \"path\": \"env.remote_addr\", \"netmask\": 18, \"asn_name\": \"Play\", \"latitude\": 52.2393, \"longitude\": 21.0361, \"country_code\": \"PL\", \"country_name\": \"Poland\"}}"
+          "fulldata": {
+            "_id": "5969f7bf6caf38000b5b0c9a",
+            "_ts": 1500113534,
+            "bot": "anubis_collector",
+            "env": {
+              "remote_addr": "213.158.203.29",
+              "server_name": "www.zmsju.com"
+            },
+            "qtype": "A",
+            "source": "Anubis",
+            "_origin": "dnsmalware",
+            "version": "1",
+            "_provider": "spikens",
+            "raw_format": "application/octet-stream",
+            "source_time": "Sat Jul 15 17:12:14 ICT 2017",
+            "source_type": "dnsmalware",
+            "trojanfamily": "Rootnik",
+            "source_address": "https://www.bitsighttech.com/",
+            "observation_time": "Sat Jul 15 18:08:45 ICT 2017",
+            "_geo_env_remote_addr": {
+              "ip": "213.158.203.29",
+              "asn": 12912,
+              "city": "Polska",
+              "path": "env.remote_addr",
+              "region": "Kujawsko-Pomorskie",
+              "netmask": 22,
+              "asn_name": "T-mobile Polska Spolka Akcyjna",
+              "latitude": 52.593,
+              "longitude": 19.0894,
+              "region_code": "73",
+              "country_code": "PL",
+              "country_name": "Poland"
+            }
+          }
         },
         {
           "time": "2017-07-15T10:13:23.000+0000",
-          "fulldata": "{\"_id\": \"5969f7cd6caf38000b5b14cf\", \"_ts\": 1500113603, \"bot\": \"anubis_collector\", \"env\": {\"remote_addr\": \"89.108.195.20\", \"server_name\": \"data.xyxpk.com\"}, \"qtype\": \"A\", \"source\": \"Anubis\", \"_origin\": \"dnsmalware\", \"version\": \"1\", \"_provider\": \"spikens\", \"raw_format\": \"application/octet-stream\", \"source_time\": \"Sat Jul 15 17:13:23 ICT 2017\", \"source_type\": \"dnsmalware\", \"trojanfamily\": \"Ganlet\", \"source_address\": \"https://www.bitsighttech.com/\", \"observation_time\": \"Sat Jul 15 18:08:58 ICT 2017\", \"_geo_env_remote_addr\": {\"ip\": \"89.108.195.20\", \"asn\": 39603, \"path\": \"env.remote_addr\", \"netmask\": 18, \"asn_name\": \"Play\", \"latitude\": 52.2393, \"longitude\": 21.0361, \"country_code\": \"PL\", \"country_name\": \"Poland\"}}"
+          "fulldata": {
+            "_id": "5969f7bf6caf38000b5b0ca2",
+            "_ts": 1500113535,
+            "bot": "anubis_collector",
+            "env": { "remote_addr": "82.160.1.8", "server_name": "tabila.biz" },
+            "qtype": "A",
+            "source": "Anubis",
+            "_origin": "dnsmalware",
+            "version": "1",
+            "_provider": "spikens",
+            "raw_format": "application/octet-stream",
+            "source_time": "Sat Jul 15 17:12:15 ICT 2017",
+            "source_type": "dnsmalware",
+            "trojanfamily": "MobiDash",
+            "source_address": "https://www.bitsighttech.com/",
+            "observation_time": "Sat Jul 15 18:08:45 ICT 2017",
+            "_geo_env_remote_addr": {
+              "ip": "82.160.1.8",
+              "asn": 20960,
+              "city": "Wegorzyno",
+              "path": "env.remote_addr",
+              "region": "Zachodniopomorskie",
+              "netmask": 22,
+              "asn_name": "TK Telekom sp. z o.o.",
+              "latitude": 53.5332,
+              "longitude": 15.55,
+              "postal_code": "73-155",
+              "region_code": "87",
+              "country_code": "PL",
+              "country_name": "Poland"
+            }
+          }
         },
         {
           "time": "2017-07-15T10:13:23.000+0000",
-          "fulldata": "{\"_id\": \"5969f7cd6caf38000b5b14ca\", \"_ts\": 1500113603, \"bot\": \"anubis_collector\", \"env\": {\"remote_addr\": \"89.108.195.20\", \"server_name\": \"ngafyvxg.net\"}, \"qtype\": \"A\", \"source\": \"Anubis\", \"_origin\": \"dnsmalware\", \"version\": \"1\", \"_provider\": \"spikens\", \"raw_format\": \"application/octet-stream\", \"source_time\": \"Sat Jul 15 17:13:23 ICT 2017\", \"source_type\": \"dnsmalware\", \"trojanfamily\": \"Necurs\", \"source_address\": \"https://www.bitsighttech.com/\", \"observation_time\": \"Sat Jul 15 18:08:58 ICT 2017\", \"_geo_env_remote_addr\": {\"ip\": \"89.108.195.20\", \"asn\": 39603, \"path\": \"env.remote_addr\", \"netmask\": 18, \"asn_name\": \"Play\", \"latitude\": 52.2393, \"longitude\": 21.0361, \"country_code\": \"PL\", \"country_name\": \"Poland\"}}"
+          "fulldata": {
+            "_id": "5969f7bf6caf38000b5b0ca6",
+            "_ts": 1500113535,
+            "bot": "anubis_collector",
+            "env": {
+              "remote_addr": "212.2.96.52",
+              "server_name": "ns2.btvxdwasdtu.info"
+            },
+            "qtype": "AAAA",
+            "source": "Anubis",
+            "_origin": "dnsmalware",
+            "version": "1",
+            "_provider": "spikens",
+            "raw_format": "application/octet-stream",
+            "source_time": "Sat Jul 15 17:12:15 ICT 2017",
+            "source_type": "dnsmalware",
+            "trojanfamily": "Conficker_B",
+            "source_address": "https://www.bitsighttech.com/",
+            "observation_time": "Sat Jul 15 18:08:45 ICT 2017",
+            "_geo_env_remote_addr": {
+              "ip": "212.2.96.52",
+              "asn": 8374,
+              "city": "Warsaw",
+              "path": "env.remote_addr",
+              "region": "Mazowieckie",
+              "netmask": 20,
+              "asn_name": "Polkomtel Sp. z o.o.",
+              "latitude": 52.25,
+              "longitude": 21,
+              "postal_code": "00-815",
+              "region_code": "78",
+              "country_code": "PL",
+              "country_name": "Poland"
+            }
+          }
         },
         {
           "time": "2017-07-15T10:13:22.000+0000",
-          "fulldata": "{\"_id\": \"5969f7cd6caf38000b5b148a\", \"_ts\": 1500113602, \"bot\": \"anubis_collector\", \"env\": {\"remote_addr\": \"89.108.195.20\", \"server_name\": \"data.xyxpk.com\"}, \"qtype\": \"A\", \"source\": \"Anubis\", \"_origin\": \"dnsmalware\", \"version\": \"1\", \"_provider\": \"spikens\", \"raw_format\": \"application/octet-stream\", \"source_time\": \"Sat Jul 15 17:13:22 ICT 2017\", \"source_type\": \"dnsmalware\", \"trojanfamily\": \"Ganlet\", \"source_address\": \"https://www.bitsighttech.com/\", \"observation_time\": \"Sat Jul 15 18:08:58 ICT 2017\", \"_geo_env_remote_addr\": {\"ip\": \"89.108.195.20\", \"asn\": 39603, \"path\": \"env.remote_addr\", \"netmask\": 18, \"asn_name\": \"Play\", \"latitude\": 52.2393, \"longitude\": 21.0361, \"country_code\": \"PL\", \"country_name\": \"Poland\"}}"
+          "fulldata": {
+            "_id": "5969f7c06caf38000b5b0cbe",
+            "_ts": 1500113537,
+            "bot": "anubis_collector",
+            "env": {
+              "remote_addr": "91.214.0.100",
+              "server_name": "green33.mntokemm.ru"
+            },
+            "qtype": "A",
+            "source": "Anubis",
+            "_origin": "dnsmalware",
+            "version": "1",
+            "_provider": "spikens",
+            "raw_format": "application/octet-stream",
+            "source_time": "Sat Jul 15 17:12:17 ICT 2017",
+            "source_type": "dnsmalware",
+            "trojanfamily": "Dorkbot",
+            "source_address": "https://www.bitsighttech.com/",
+            "observation_time": "Sat Jul 15 18:08:45 ICT 2017",
+            "_geo_env_remote_addr": {
+              "ip": "91.214.0.100",
+              "asn": 50349,
+              "city": "Skierniewice",
+              "path": "env.remote_addr",
+              "region": "Lodzkie",
+              "netmask": 22,
+              "asn_name": "Timplus S.c. B.dudek R.walentowski",
+              "latitude": 51.9667,
+              "longitude": 20.1499,
+              "postal_code": "96-100",
+              "region_code": "74",
+              "country_code": "PL",
+              "country_name": "Poland"
+            }
+          }
         },
         {
           "time": "2017-07-15T10:13:21.000+0000",
-          "fulldata": "{\"_id\": \"5969f7cd6caf38000b5b1486\", \"_ts\": 1500113601, \"bot\": \"anubis_collector\", \"env\": {\"remote_addr\": \"89.108.195.20\", \"server_name\": \"ngafyvxg.net\"}, \"qtype\": \"A\", \"source\": \"Anubis\", \"_origin\": \"dnsmalware\", \"version\": \"1\", \"_provider\": \"spikens\", \"raw_format\": \"application/octet-stream\", \"source_time\": \"Sat Jul 15 17:13:21 ICT 2017\", \"source_type\": \"dnsmalware\", \"trojanfamily\": \"Necurs\", \"source_address\": \"https://www.bitsighttech.com/\", \"observation_time\": \"Sat Jul 15 18:08:58 ICT 2017\", \"_geo_env_remote_addr\": {\"ip\": \"89.108.195.20\", \"asn\": 39603, \"path\": \"env.remote_addr\", \"netmask\": 18, \"asn_name\": \"Play\", \"latitude\": 52.2393, \"longitude\": 21.0361, \"country_code\": \"PL\", \"country_name\": \"Poland\"}}"
+          "fulldata": {
+            "_id": "5969f7c06caf38000b5b0ccc",
+            "_ts": 1500113537,
+            "bot": "anubis_collector",
+            "env": {
+              "remote_addr": "212.2.96.51",
+              "server_name": "ns1.btvxdwasdtu.info"
+            },
+            "qtype": "AAAA",
+            "source": "Anubis",
+            "_origin": "dnsmalware",
+            "version": "1",
+            "_provider": "spikens",
+            "raw_format": "application/octet-stream",
+            "source_time": "Sat Jul 15 17:12:17 ICT 2017",
+            "source_type": "dnsmalware",
+            "trojanfamily": "Conficker_B",
+            "source_address": "https://www.bitsighttech.com/",
+            "observation_time": "Sat Jul 15 18:08:45 ICT 2017",
+            "_geo_env_remote_addr": {
+              "ip": "212.2.96.51",
+              "asn": 8374,
+              "city": "Warsaw",
+              "path": "env.remote_addr",
+              "region": "Mazowieckie",
+              "netmask": 20,
+              "asn_name": "Polkomtel Sp. z o.o.",
+              "latitude": 52.25,
+              "longitude": 21,
+              "postal_code": "00-815",
+              "region_code": "78",
+              "country_code": "PL",
+              "country_name": "Poland"
+            }
+          }
         },
         {
           "time": "2017-07-15T10:13:20.000+0000",
-          "fulldata": "{\"_id\": \"5969f7cc6caf38000b5b1448\", \"_ts\": 1500113600, \"bot\": \"anubis_collector\", \"env\": {\"remote_addr\": \"89.108.195.20\", \"server_name\": \"ngafyvxg.net\"}, \"qtype\": \"A\", \"source\": \"Anubis\", \"_origin\": \"dnsmalware\", \"version\": \"1\", \"_provider\": \"spikens\", \"raw_format\": \"application/octet-stream\", \"source_time\": \"Sat Jul 15 17:13:20 ICT 2017\", \"source_type\": \"dnsmalware\", \"trojanfamily\": \"Necurs\", \"source_address\": \"https://www.bitsighttech.com/\", \"observation_time\": \"Sat Jul 15 18:08:58 ICT 2017\", \"_geo_env_remote_addr\": {\"ip\": \"89.108.195.20\", \"asn\": 39603, \"path\": \"env.remote_addr\", \"netmask\": 18, \"asn_name\": \"Play\", \"latitude\": 52.2393, \"longitude\": 21.0361, \"country_code\": \"PL\", \"country_name\": \"Poland\"}}"
+          "fulldata": {
+            "_id": "5969f7c06caf38000b5b0cde",
+            "_ts": 1500113538,
+            "bot": "anubis_collector",
+            "env": {
+              "remote_addr": "212.2.96.51",
+              "server_name": "tabila.biz"
+            },
+            "qtype": "A",
+            "source": "Anubis",
+            "_origin": "dnsmalware",
+            "version": "1",
+            "_provider": "spikens",
+            "raw_format": "application/octet-stream",
+            "source_time": "Sat Jul 15 17:12:18 ICT 2017",
+            "source_type": "dnsmalware",
+            "trojanfamily": "MobiDash",
+            "source_address": "https://www.bitsighttech.com/",
+            "observation_time": "Sat Jul 15 18:08:45 ICT 2017",
+            "_geo_env_remote_addr": {
+              "ip": "212.2.96.51",
+              "asn": 8374,
+              "city": "Warsaw",
+              "path": "env.remote_addr",
+              "region": "Mazowieckie",
+              "netmask": 20,
+              "asn_name": "Polkomtel Sp. z o.o.",
+              "latitude": 52.25,
+              "longitude": 21,
+              "postal_code": "00-815",
+              "region_code": "78",
+              "country_code": "PL",
+              "country_name": "Poland"
+            }
+          }
         },
         {
           "time": "2017-07-15T10:13:19.000+0000",
-          "fulldata": "{\"_id\": \"5969f7cc6caf38000b5b1416\", \"_ts\": 1500113599, \"bot\": \"anubis_collector\", \"env\": {\"remote_addr\": \"89.108.195.20\", \"server_name\": \"ngafyvxg.net\"}, \"qtype\": \"A\", \"source\": \"Anubis\", \"_origin\": \"dnsmalware\", \"version\": \"1\", \"_provider\": \"spikens\", \"raw_format\": \"application/octet-stream\", \"source_time\": \"Sat Jul 15 17:13:19 ICT 2017\", \"source_type\": \"dnsmalware\", \"trojanfamily\": \"Necurs\", \"source_address\": \"https://www.bitsighttech.com/\", \"observation_time\": \"Sat Jul 15 18:08:57 ICT 2017\", \"_geo_env_remote_addr\": {\"ip\": \"89.108.195.20\", \"asn\": 39603, \"path\": \"env.remote_addr\", \"netmask\": 18, \"asn_name\": \"Play\", \"latitude\": 52.2393, \"longitude\": 21.0361, \"country_code\": \"PL\", \"country_name\": \"Poland\"}}"
+          "fulldata": {
+            "_id": "5969f7c06caf38000b5b0d11",
+            "_ts": 1500113541,
+            "bot": "anubis_collector",
+            "env": {
+              "remote_addr": "213.158.201.1",
+              "server_name": "lb.mspe7-06.com"
+            },
+            "qtype": "A",
+            "source": "Anubis",
+            "_origin": "dnsmalware",
+            "version": "1",
+            "_provider": "spikens",
+            "raw_format": "application/octet-stream",
+            "source_time": "Sat Jul 15 17:12:21 ICT 2017",
+            "source_type": "dnsmalware",
+            "trojanfamily": "InstallMonster",
+            "source_address": "https://www.bitsighttech.com/",
+            "observation_time": "Sat Jul 15 18:08:45 ICT 2017",
+            "_geo_env_remote_addr": {
+              "ip": "213.158.201.1",
+              "asn": 12912,
+              "city": "Polska",
+              "path": "env.remote_addr",
+              "region": "Kujawsko-Pomorskie",
+              "netmask": 22,
+              "asn_name": "T-mobile Polska Spolka Akcyjna",
+              "latitude": 52.593,
+              "longitude": 19.0894,
+              "region_code": "73",
+              "country_code": "PL",
+              "country_name": "Poland"
+            }
+          }
         }
       ]
     }
