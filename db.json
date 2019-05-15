@@ -274,44 +274,6 @@
               "country_name": "Poland"
             }
           }
-        },
-        {
-          "time": "2017-07-15T10:13:22.000+0000",
-          "fulldata": {
-            "_id": "5969f7c06caf38000b5b0cbe",
-            "_ts": 1500113537,
-            "bot": "anubis_collector",
-            "env": {
-              "remote_addr": "91.214.0.100",
-              "server_name": "green33.mntokemm.ru"
-            },
-            "qtype": "A",
-            "source": "Anubis",
-            "_origin": "dnsmalware",
-            "version": "1",
-            "_provider": "spikens",
-            "raw_format": "application/octet-stream",
-            "source_time": "Sat Jul 15 17:12:17 ICT 2017",
-            "source_type": "dnsmalware",
-            "trojanfamily": "Dorkbot",
-            "source_address": "https://www.bitsighttech.com/",
-            "observation_time": "Sat Jul 15 18:08:45 ICT 2017",
-            "_geo_env_remote_addr": {
-              "ip": "91.214.0.100",
-              "asn": 50349,
-              "city": "Skierniewice",
-              "path": "env.remote_addr",
-              "region": "Lodzkie",
-              "netmask": 22,
-              "asn_name": "Timplus S.c. B.dudek R.walentowski",
-              "latitude": 51.9667,
-              "longitude": 20.1499,
-              "postal_code": "96-100",
-              "region_code": "74",
-              "country_code": "PL",
-              "country_name": "Poland"
-            }
-          }
         }
       ]
     }
